@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Duel-Master",
+    "live": "https://duel-master.netlify.app/",
+    "git": "https://github.com/ChristianJ16/Duel-Master",
+    "image": "https://i.gyazo.com/7e2b33374666b8535a61a7d8640150c5.png"
+  },
+  {
+    "name": "Shopping-Plus",
+    "live": "https://shopping-plus-31e9325a345e.herokuapp.com/shopping",
+    "git": "https://github.com/ChristianJ16/shopping-plus",
+    "image": "https://i.gyazo.com/4e62fed3721331315ea3a3469140e8a8.png"
+  }
+]
